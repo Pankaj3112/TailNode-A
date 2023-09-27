@@ -14,7 +14,7 @@ Please follow these steps to install:
 
 Clone this repository using the following command:
 ```
-$ git clone 
+$ git clone https://github.com/Pankaj3112/TailNode-A.git
 ```
 Install the required dependencies using the following command:
 ```
