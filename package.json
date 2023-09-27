@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^1.5.1",
+    "mongoose": "^7.5.3"
+  },
+  "name": "tailnode-a",
+  "version": "1.0.0",
+  "description": "Fetching data from api and saving to db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Pankaj Beniwal",
+  "license": "ISC"
+}
